@@ -1,7 +1,10 @@
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nuung" frameborder="0"></iframe>
+<!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nuung" frameborder="0"></iframe> -->
 
 <div align = "center">
+  
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qlgks1)](https://solved.ac/qlgks1)
+
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nuung&theme=dark&show_icons=true)
 
