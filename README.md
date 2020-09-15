@@ -2,7 +2,7 @@
 <!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nuung" frameborder="0"></iframe> -->
 
 <div align = "center">
-  
+  <img src="https://github.com/Nuung/amnotifyKR/blob/master/amnotifyWas/public/images/github.png" > 
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNuung&count_bg=%235ECAF1&title_bg=%23555555&icon=discord.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:qlgks1@gmail.com)
