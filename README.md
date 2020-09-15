@@ -1,8 +1,7 @@
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nuung" frameborder="0"></iframe>
 
 <div align = "center">
-  
-  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nuung" frameborder="0"></iframe>
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nuung&theme=dark&show_icons=true)
 
