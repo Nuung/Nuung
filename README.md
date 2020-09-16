@@ -1,6 +1,6 @@
 # Nuung's Git Hub
 <div align = "center">
-  <img src="https://camo.githubusercontent.com/ef4eb77319c886771d511eece7ad68547d60e1d9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966 />
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif />
 </div>
           
   ---
