@@ -1,8 +1,9 @@
 # Nuung's Git Hub
-
+<div align = "center">
+  <img src="https://camo.githubusercontent.com/ef4eb77319c886771d511eece7ad68547d60e1d9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966 />
+</div>
+          
   ---
-
-<!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nuung" frameborder="0"></iframe> -->
 
 <div align = "center">
   
@@ -16,20 +17,3 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuung&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-
-
-
-<!--
-**Nuung/Nuung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
