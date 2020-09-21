@@ -14,6 +14,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nuung&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuung&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qlgks1)](https://solved.ac/qlgks1)
   
 </div>
