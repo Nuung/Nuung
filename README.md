@@ -13,6 +13,10 @@
 
 <div align = "center">
 
+### Github Repos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=vanilla-javascript&show_owner=true&theme=dark)](https://github.com/Nuung/vanilla-javascript)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nuung&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuung&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
