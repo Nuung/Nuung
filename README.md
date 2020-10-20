@@ -1,6 +1,6 @@
 # Nuung's Git Hub
 <div align = "center">
-**Check My Stack**  <a href="https://stackshare.io/nuung/my-stack">
+__Check My Stack__  <a href="https://stackshare.io/nuung/my-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="nuung :: StackShare" />
   </a>
 
