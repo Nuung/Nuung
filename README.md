@@ -14,7 +14,8 @@
 <div align = "center">
 
 ### Github Repos
-  - Check This Repo and 
+  ``` Check This Repo and ```
+  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=vanilla-javascript&show_owner=true&theme=dark)](https://github.com/Nuung/vanilla-javascript)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nuung&theme=dark&show_icons=true)
