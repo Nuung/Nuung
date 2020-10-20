@@ -5,6 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:qlgks1@gmail.com)
 
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="45%">
+  <a href="https://stackshare.io/nuung/my-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="nuung :: StackShare" />
+  </a>
 </div>
           
   ---
