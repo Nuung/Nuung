@@ -9,7 +9,7 @@
 <img src="https://nuung.github.io/vanilla-javascript/NomadJS/images/svg.svg" width="80%" alt="hi, I'm nuung" />
 </div>
           
-###
+--- 
 
 <div align = "center">
 
