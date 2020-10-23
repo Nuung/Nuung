@@ -1,8 +1,6 @@
 <div align = "center">
   <details>
-
->
-    <summary>Click and Check my Stack!</summary>
+    <summary><h2>Click and Check my Stack!</h2></summary>
       <a href="https://stackshare.io/nuung/my-stack">
         <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="nuung :: StackShare" />
       </a>
