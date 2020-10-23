@@ -14,7 +14,7 @@
 <div align = "center">
 
 # Github Repos
-  ``` Check the Repo below and ```
+  ``` Check the Repo below and if u want to contribute something, just send me a mail  ```
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=vanilla-javascript&show_owner=true&theme=dark)](https://github.com/Nuung/vanilla-javascript)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=DDmap&show_owner=true&theme=dark)](https://github.com/Nuung/DDmap)
