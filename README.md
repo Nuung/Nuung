@@ -17,7 +17,7 @@
   ``` Check the Repo below and if u want to contribute something, just send me a mail  ```
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=all-about-javascript&show_owner=true&theme=dark)](https://github.com/Nuung/all-about-javascript) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=DDmap&show_owner=true&theme=dark)](https://github.com/Nuung/DDmap)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Light-Board&repo=light-board-back&show_owner=true&theme=dark)](https://github.com/Light-Board/light-board-back)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nuung&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuung&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
