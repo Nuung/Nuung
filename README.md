@@ -14,10 +14,8 @@
 <div align = "center">
 
 # Github Repos
-  ``` Check the Repo below and if u want to contribute something, just send me a mail  ```
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=all-about-javascript&show_owner=true&theme=dark)](https://github.com/Nuung/all-about-javascript) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Light-Board&repo=light-board-back&show_owner=true&theme=dark)](https://github.com/Light-Board/light-board-back)
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qlgks1)](https://solved.ac/qlgks1)  
 
