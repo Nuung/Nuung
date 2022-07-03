@@ -17,6 +17,4 @@
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=all-about-javascript&show_owner=true&theme=dark)](https://github.com/Nuung/all-about-javascript) 
 
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qlgks1)](https://solved.ac/qlgks1)  
-
 </div>
