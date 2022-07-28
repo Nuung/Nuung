@@ -11,9 +11,6 @@
 <img src="https://nuung.github.io/all-about-javascript/NomadJS/images/svg.svg" width="80%" alt="hi, I'm nuung" />
 </div>
 
-<div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="hyeonwoo-jeong-nuung" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/hyeonwoo-jeong-nuung?trk=profile-badge">Hyeonwoo Jeong</a></div>
-
-
 <div align = "center">
 
 # Github Repos
