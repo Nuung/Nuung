@@ -14,7 +14,8 @@
 <div align = "center">
 
 # Github Repos
- 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=django-all-about&show_owner=true&theme=dark)](https://github.com/Nuung/django-all-about) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=all-about-javascript&show_owner=true&theme=dark)](https://github.com/Nuung/all-about-javascript) 
 
 </div>
