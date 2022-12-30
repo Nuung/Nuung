@@ -15,6 +15,11 @@
 
 # Github Repos
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qlgks1&tag=kafka&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qlgks1&tag=python-memory-optimization&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+  
+<br/>
+  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=django-all-about&show_owner=true&theme=dark)](https://github.com/Nuung/django-all-about) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=all-about-javascript&show_owner=true&theme=dark)](https://github.com/Nuung/all-about-javascript) 
 
