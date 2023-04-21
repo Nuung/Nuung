@@ -15,12 +15,11 @@
 
 # Github Repos
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qlgks1&tag=kafka&color=dark)](https://velog.io/@qlgks1/%EC%B9%B4%ED%94%84%EC%B9%B4Kafka%EB%9E%80)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qlgks1&slug=카프카Kafka란&color=dark)](https://velog.io/@qlgks1/%EC%B9%B4%ED%94%84%EC%B9%B4Kafka%EB%9E%80)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qlgks1&tag=python-memory-optimization&color=dark)](https://velog.io/@qlgks1/python-memory-optimization-2-GC-reference-counter-and-GIL)
   
 <br/>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=django-all-about&show_owner=true&theme=dark)](https://github.com/Nuung/django-all-about) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=all-about-javascript&show_owner=true&theme=dark)](https://github.com/Nuung/all-about-javascript) 
 
 </div>
