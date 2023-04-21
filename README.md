@@ -15,6 +15,8 @@
 
 # Github Repos
 
+[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=qlgks1)](https://velog.io/@qlgks1)
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qlgks1&slug=카프카Kafka란&color=dark)](https://velog.io/@qlgks1/%EC%B9%B4%ED%94%84%EC%B9%B4Kafka%EB%9E%80)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qlgks1&tag=python-memory-optimization&color=dark)](https://velog.io/@qlgks1/python-memory-optimization-2-GC-reference-counter-and-GIL)
   
