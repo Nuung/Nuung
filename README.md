@@ -13,7 +13,7 @@
 
 <div align = "center">
 
-# Github Repos
+# Dev Logs
 
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=qlgks1)](https://velog.io/@qlgks1)
 
