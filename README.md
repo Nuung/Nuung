@@ -9,7 +9,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNuung&count_bg=%23003376&title_bg=%23555555&icon=sparkfun.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:qlgks1@gmail.com)
 
-<img src="<img src="https://raw.githubusercontent.com/Nuung/all-about-javascript/b9458657f63474335d2897769cf6daf107e35516/NomadJS/images/svg.svg" width="80%" alt="hi, I'm nuung" />" width="74%" alt="hi, I'm nuung" />
+<img src="https://raw.githubusercontent.com/Nuung/all-about-javascript/b9458657f63474335d2897769cf6daf107e35516/NomadJS/images/svg.svg" width="74%" alt="hi, I'm nuung" />
 </div>
 
 <div align = "center">
