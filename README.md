@@ -22,8 +22,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=django-all-about&show_owner=true&theme=dark)](https://github.com/Nuung/django-all-about) 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=check-Data-Out&repo=velog-dashboard&show_owner=true&theme=dark)](https://github.com/check-Data-Out/velog-dashboard) 
-
 
 <picture>
   <source
