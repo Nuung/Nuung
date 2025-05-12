@@ -17,10 +17,10 @@
 
 # Dev Logs
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=qlgks1)](https://velog.io/@qlgks1)
+[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/qlgks1?theme=dark&posts=3)](https://velog.io/@qlgks1)
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=django-all-about&show_owner=true&theme=dark)](https://github.com/Nuung/django-all-about) 
-
 
 <picture>
   <source
