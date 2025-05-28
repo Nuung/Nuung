@@ -1,12 +1,12 @@
-<div align = "center">
+<div align="center">
 
-<details><summary> Click to Check my Stack! </summary>
+  <!-- 상단 뱃지 -->
   <a href="https://stackshare.io/nuung/my-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="nuung :: StackShare" />
+    <img src="https://img.shields.io/badge/tech--stack-0690fa.svg?style=flat" alt="StackShare Badge" />
   </a>
-</details>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:qlgks1@gmail.com)
+  <a href="mailto:qlgks1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
 
 [![An image of @nuung's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nuung)](https://holopin.io/@nuung)
 
@@ -22,16 +22,25 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=django-all-about&show_owner=true&theme=dark)](https://github.com/Nuung/django-all-about) 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=nuung&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=nuung&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=nuung&show_icons=true" />
-</picture>
-
-</div>
+<table>
+<tr>
+  <td>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=nuung&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=nuung&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=nuung&show_icons=true" alt="GitHub Stats" />
+    </picture>
+  </td>
+  <td>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuung&layout=compact&hide=html,css,scss,less,ejs,jupyter%20notebook,pug,ruby,javascript,vue&theme=dark" alt="Top Languages" />
+    </a>
+  </td>
+</tr>
+</table>
