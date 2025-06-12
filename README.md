@@ -19,8 +19,7 @@
 
 [![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/qlgks1?theme=dark&posts=3)](https://velog.io/@qlgks1)
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=django-all-about&show_owner=true&theme=dark)](https://github.com/Nuung/django-all-about) 
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <table>
 <tr>
@@ -38,8 +37,18 @@
     </picture>
   </td>
   <td>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuung&layout=compact&hide=html,css,scss,less,ejs,jupyter%20notebook,pug,ruby,javascript,vue&theme=dark" alt="Top Languages" />
+    <a href="https://github.com/Nuung/django-all-about">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=django-all-about&show_owner=true&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=django-all-about&show_owner=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=django-all-about&show_owner=true" alt="Django All About Repository" />
+      </picture>
     </a>
   </td>
 </tr>
