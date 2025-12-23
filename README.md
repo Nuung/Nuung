@@ -17,10 +17,6 @@
 
 # Dev Logs
 
-[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/qlgks1?theme=dark&posts=3)](https://velog.io/@qlgks1)
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
 <table>
 <tr>
   <td>
