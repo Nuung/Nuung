@@ -30,10 +30,27 @@
           srcset="https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=qrcode-gen&show_owner=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=qrcode-gen&show_owner=true" alt="Django All About Repository" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=qrcode-gen&show_owner=true" alt="QRcode gen Repository" />
       </picture>
     </a>
   </td>
+  <td>
+    <a href="https://github.com/Nuung/django-ninja">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=django-ninja&show_owner=true&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=django-ninja&show_owner=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=django-ninja&show_owner=true" alt="Django Ninja Repository" />
+      </picture>
+    </a>
+  </td>
+</tr>
+<tr>
   <td>
     <a href="https://github.com/Nuung/django-all-about">
       <picture>
