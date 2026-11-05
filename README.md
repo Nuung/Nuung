@@ -23,14 +23,14 @@
     <a href="https://github.com/Nuung/qrcode-gen">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=qrcode-gen&show_owner=true&theme=dark"
+          srcset="./profile/pin-qrcode-gen-dark.svg"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=qrcode-gen&show_owner=true"
+          srcset="./profile/pin-qrcode-gen.svg"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=qrcode-gen&show_owner=true" alt="QRcode gen Repository" />
+        <img src="./profile/pin-qrcode-gen.svg" alt="QRcode gen Repository" />
       </picture>
     </a>
   </td>
@@ -40,14 +40,14 @@
     <a href="https://github.com/Nuung/django-all-about">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=django-all-about&show_owner=true&theme=dark"
+          srcset="./profile/pin-django-all-about-dark.svg"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=django-all-about&show_owner=true"
+          srcset="./profile/pin-django-all-about.svg"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nuung&repo=django-all-about&show_owner=true" alt="Django All About Repository" />
+        <img src="./profile/pin-django-all-about.svg" alt="Django All About Repository" />
       </picture>
     </a>
   </td>
