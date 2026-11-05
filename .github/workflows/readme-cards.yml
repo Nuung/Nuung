@@ -1,0 +1,68 @@
+name: Update README cards
+
+on:
+  schedule:
+    # 오전 9시 30분 (KST) = 00:30 UTC
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/readme-cards.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate qrcode-gen card (light)
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=qrcode-gen&show_owner=true
+          path: profile/pin-qrcode-gen.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate qrcode-gen card (dark)
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=qrcode-gen&show_owner=true&theme=dark
+          path: profile/pin-qrcode-gen-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate django-all-about card (light)
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=django-all-about&show_owner=true
+          path: profile/pin-django-all-about.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate django-all-about card (dark)
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=django-all-about&show_owner=true&theme=dark
+          path: profile/pin-django-all-about-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit & Push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update README cards"
+            git push
+          fi
